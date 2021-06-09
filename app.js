@@ -50,3 +50,77 @@
 // areaOfTriangle(a,b,c)
 
 // Q 4
+
+
+// var sub1Marks = +prompt("Enter Subject 1 Marks")
+// var sub2Marks = +prompt("Enter Subject 2 Marks")
+// var sub3Marks = +prompt("Enter Subject 3 Marks")
+// var totalMarks = +prompt("Enter Total Marks")
+// mainFunc(sub1Marks,sub1Marks,sub1Marks,totalMarks)
+// function mainFunc (subject1,subject2,subject3,totalMarks){
+// var sum = subject1,subject2,subject3;
+// return sum;
+//     function averageCalc (sum){
+//     var average = sum / 3
+//     alert(average)
+//     return average;
+// }
+// function rercalc (sum, totalMarks){
+//     var per = sum / totalMarks * 100;
+//     return per ;
+// }
+// averageCalc (sum)
+// rercalc (sum, totalMarks)
+// }
+
+// Q 5
+
+// var string = prompt("")
+// var character = prompt("")
+
+// function indexOf(string, character) {
+//     var result = string;
+//     var i = 0;
+//     var output = 1;
+  
+//     while (i < result.length) {
+//       if (result[i] === character) {
+//         output = output + indexOf[i];
+//       }
+//     }
+  
+//     return output;
+//   }
+//   alert (output)
+
+// Q 6
+
+// function vovelDelete(){
+//     var userInput = prompt("")
+//     var d = userInput.replace(/[aeiou]/g, '');   
+//     alert (d)
+// }
+// vovelDelete()
+
+//6
+
+// function vovel(){
+//     var userInput = prompt("")
+//     switch (userInput){
+//         case "a" :
+//           alert ("a");
+//           case "e" :
+//             alert ("e");
+//             case "i" :
+//                 alert ("i");
+//                 case "o" :
+//                     alert ("i");
+//                     case "u" :
+//                         alert ("u");
+//     }
+// }
+// vovel()
+
+// 8
+
+
